@@ -1,0 +1,1 @@
+-Din=/home/quangminh/BigDataProject/KmeansData.txt   -Dlines=30   -Dresult=result.txt   -Dmaxloop=50   -Dk=5   -Dthresh=0.0001   -DNumReduceTask=2   -Dout=/home/quangminh/BigDataProject/k-output
